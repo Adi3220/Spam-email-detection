@@ -1,2 +1,3 @@
 # Spam-email-detection
-Project on Spam Email Detection
+Project on Spam Email Detection:
+The purpose of this project is to create a web application that will filter spam emails by using supervised machine learning algorithms. We are giving the user the ability to view their emails in their inbox already filtered, like an email client application. The classifier will run periodically in the backend to ensure all emails are correctly classified based on the machine learning algorithms. The admin should be able to view a spam report to find out how many spam mails there are in each inbox overall and view all the registered users of the application. The spam and ham classification will never be shown to the user, this will all take place in the backend. They will just see their emails in the inbox or spam sections of their interface.
